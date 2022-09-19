@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Routing from "routes/index";
+import Routing from "./routes/index";
 function App() {
   return (
     //add in routing in here instead
